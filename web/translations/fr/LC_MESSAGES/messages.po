@@ -247,7 +247,7 @@ msgstr "S'il y a un problème, éditez le fichier"
 
 #: templates/wifi.html:33
 msgid "back"
-msgstr "arrière"
+msgstr "retour"
 
 #~ msgid "Wireless Configuration"
 #~ msgstr "Configuration sans fil"
